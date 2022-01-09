@@ -1,0 +1,17 @@
+h1 {
+    color:red;
+    
+}
+ul {
+    font-size: 28px;
+    font-family: "courier new", courier;
+  }
+
+ body {
+    background-color: chartreuse;
+ } 
+
+ img {
+     height: auto;
+     width:500px;
+ }
